@@ -76,11 +76,10 @@
 
 ![輸入localhost8000](https://hackmd.io/_uploads/HJ2cuE7QR.png)
 
-9. 把這段練習上傳上去自己的GitHub(順便可以練習GitHub)
+9. 把這段練習上傳上去自己的GitHub(可以順便練習GitHub)
+![github練習1（新增一個）](https://hackmd.io/_uploads/H1VGZwQXR.png)
+![github練習2（內容）](https://hackmd.io/_uploads/H12zZDX7C.png)
 
-![github練習1（新增一個）](https://hackmd.io/_uploads/SJG4mB7mA.png)
-
-![github練習2（內容）](https://hackmd.io/_uploads/r1VzEHX70.png)
 
 # 切換到要上傳的目錄位置
 `cd /Users/black/myproject`
