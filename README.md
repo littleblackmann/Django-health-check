@@ -132,7 +132,25 @@ git remote add origin git@github.com:littleblackmann/Django-health-check.git
 
 
 
+* 如果之後要更新上傳失敗的話先進行pull在push
+![上傳github失敗的話](https://hackmd.io/_uploads/rJqc05NQ0.png)
 
+* 輸入這個先讓倉庫跟自己本地進度一樣
+`git pull origin main`
+
+![gitpull更新](https://hackmd.io/_uploads/HkCP1oN7R.png)
+
+* 在去commit
+
+![截圖 2024-05-17 下午5.19.16](https://hackmd.io/_uploads/Bk94bsN70.png)
+
+
+* 在進行push
+`git push -u origin main`
+
+![更新後上傳到github](https://hackmd.io/_uploads/Bk_FZoNXA.png)
+
+![成果圖](https://hackmd.io/_uploads/H1PbMiEmR.png)
 
 
 
